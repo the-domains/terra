@@ -1,4 +1,3 @@
-layout_spectrum: 0.6600257572717965
 typography_spectrum: 0.4052324681542814
 color:
   brandStrength: 0.43632059008814394
@@ -6,9 +5,11 @@ color:
   saturation: 0.2785465125925839
   rhythmicContrast: 0.18075395771302283
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+layout_spectrum: 0.6600257572717965
 name: Terra
+title: Great Minds Think
